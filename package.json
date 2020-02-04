@@ -1,0 +1,22 @@
+{
+  "name": "blockchain-backend",
+  "version": "1.0.0",
+  "description": "backend for blockchain built using MERN",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sai-kranthi-au4/blockchain-backend.git"
+  },
+  "author": "sai kranthi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sai-kranthi-au4/blockchain-backend/issues"
+  },
+  "homepage": "https://github.com/sai-kranthi-au4/blockchain-backend#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
